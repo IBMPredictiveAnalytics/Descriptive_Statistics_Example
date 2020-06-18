@@ -8,7 +8,8 @@ Description: This extension is primarily intended as a learning resour
  unch the associated dialog from Extensions>Descriptive Statistics Exa
  mple and then click Help.
 Author: IBM SPSS
-Version: 1.0.0
+Version: 2.0.0
 Product-Version: 24
+Product-Version-Maximum: 99
 Plugins: Python
-Python-Version: 2
+Python-Version: 3
