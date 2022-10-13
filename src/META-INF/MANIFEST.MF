@@ -1,4 +1,5 @@
 Name: Descriptive Statistics Example
+Display-Name: Descriptive Statistics Example
 Dialog-Specs: desc_stats.cfe
 Summary: Example extension that runs Descriptives for scale variables 
  and Frequencies for categorical variables
@@ -8,7 +9,7 @@ Description: This extension is primarily intended as a learning resour
  unch the associated dialog from Extensions>Descriptive Statistics Exa
  mple and then click Help.
 Author: IBM SPSS
-Version: 2.0.0
+Version: 2.0.1
 Product-Version: 24
 Product-Version-Maximum: 99
 Plugins: Python
